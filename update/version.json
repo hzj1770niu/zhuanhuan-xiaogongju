@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apk": "update.apk",
+  "size": 279361,
+  "notes": "新增试听播放进度条（可拖动、可前后 10 秒）；新增应用内在线更新。"
+}
