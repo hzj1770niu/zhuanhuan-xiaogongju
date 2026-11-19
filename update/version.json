@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "apk": "update.apk",
-  "size": 279361,
-  "notes": "1. 试听区新增音轨波形，播放时竖线跟着走，点波形可跳到对应时间；\n2. 解决已知问题。"
+  "size": 283457,
+  "notes": "1. 修好“导入后点试听没反应”：现在没转换也能直接试听导入的音频或视频，从起点播到终点；\n2. 导入放宽到常见音视频格式（MP3、WAV、FLAC、M4A/AAC、OGG、AMR、MP4、MKV 等，用系统解码器）；\n3. 试听原文件时也会显示波形；\n4. 解决已知问题。"
 }
